@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.top-bar{
+  background: linear-gradient(#4184ba, #4184ba);;
+}
+
+.bluebg{
+  background-color: #4184ba;
+}
